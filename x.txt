@@ -1,6 +1,6 @@
 #设置Go语言的路径
-export GOROOT=/home/chc/go
-export GOPATH=/home/chc/gostudy
+export GOROOT=/home/../go
+export GOPATH=/home/../gostudy
 export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
 
 //conn结构体为一个 *netFD的网络文件描述符号
